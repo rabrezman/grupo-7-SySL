@@ -1,4 +1,11 @@
-**Bibliografia:**
+**Integrantes del grupo**
+ - Zoe Iael Mancini (zoemancini)
+ - Sofia Zalazar (SOFIAZALAZAR)
+ - Román Brezman (rabrezman)
+ - Mariano Bruno (marianonahuelbruno)
+ - Guido Moreyra (GuidoMoreyra)
+
+**Bibliografia**
 1. BNFs
     - http://guangzhou.cs.uwm.edu/javascript/js.html
     - https://www.ecma-international.org/publications/standards/Ecma-262.htm
