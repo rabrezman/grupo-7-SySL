@@ -1,0 +1,9 @@
+Bibliografia:
+http://guangzhou.cs.uwm.edu/javascript/js.html
+https://stackoverflow.com/questions/44870928/is-there-a-bnf-grammar-openly-available-for-javascript-es6
+https://docs.python.org/3/reference/grammar.html
+https://realpython.com/python-bnf-notation/
+https://stackoverflow.com/questions/1517347/what-algorithm-does-pythons-built-in-sort-method-use
+https://github.com/python/cpython/blob/main/Objects/listsort.txt
+https://v8.dev/blog/array-sort
+https://locall.host/what-algorithm-does-javascript-sort-use/
